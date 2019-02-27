@@ -1,5 +1,5 @@
 {
-    "name": "8891/exportcsv",
+    "name": "8891/laravel-exportcsv",
     "description": "Export CSV via Middleware, no source modify, just composer require",
     "type": "laravel-extention",
     "license": "MIT",
