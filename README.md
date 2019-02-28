@@ -15,7 +15,10 @@ ExportCsv 解决 csv 统一下载导出的功能
 ## Usage
 
 ### Server
-只需要 require 进来就可以，无需任何配置 ```composer require t8891/ExportCsv```
+只需要 require 进来就可以，无需任何配置 
+```
+composer require 8891/laravel-exportcsv
+```
 
 
 ### Client
