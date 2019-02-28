@@ -1,4 +1,4 @@
-# t8891/ExportCsv Csv导出功能
+# 8891/laravel-exportcsv Csv导出功能
 
 ExportCsv 解决 csv 统一下载导出的功能
 - [x] 客户端通过设定 Accept: text/csv 头部触发下载
